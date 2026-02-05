@@ -79,10 +79,30 @@ const STANDAARD_MEDEWERKERS = [
 
 const MONEY_GIFS = [
   "https://media.giphy.com/media/l0Ex6kAKAoFRsFh6M/giphy.gif", // DiCaprio money
-  "https://media.giphy.com/media/67ThRZlYBkpenzqEUu/giphy.gif", // DuckTales coins
-  "https://media.giphy.com/media/ADgfsbHcXf7Y4/giphy.gif", // Money flying
   "https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif", // Make it rain
   "https://media.giphy.com/media/9HQRIttS5C4Za/giphy.gif", // Jerry Maguire show me the money
+  "https://media.giphy.com/media/sDcfxFDozb3bO/giphy.gif",      // Futurama Fry: "Shut up and take my money"
+  "https://media.giphy.com/media/LCdPNT81vlv3y/giphy.gif",      // Fresh Prince (Will Smith): Make it rain
+  "https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif",      // Spongebob: Gooit geld in de lucht
+  "https://media.giphy.com/media/13B1WmJg7HwjGU/giphy.gif",     // Austin Powers: Dr. Evil "One Million Dollars"
+  "https://media.giphy.com/media/JpG2A9P3dPHXaTYrwu/giphy.gif",  // Kat met stapel dollars
+  "https://media.giphy.com/media/MFsqcBSoOKPbjtmvWz/giphy.gif",  // Homer Simpson: Zwembad vol geld
+  "https://media.giphy.com/media/gJha9m3045fsOG0Zhk/giphy.gif",  // Lege portemonnee (Let op: dit is een 'geen geld' gifje!)
+  "https://media.giphy.com/media/f7MO098FCipmq0eUpV/giphy.gif",  // Illustratie: Make it rain
+  "https://media.giphy.com/media/9GLiEBLM0qiSQ/giphy.gif",       // Dr. Evil: Pinky finger
+  "https://media.giphy.com/media/G3yZQxmuw3PgI/giphy.gif",       // Friday (film): Throwing money
+  "https://media.giphy.com/media/LdOyjZ7io5Msw/giphy.gif",       // Parks & Rec: Mona Lisa "Money Please!"
+  "https://media.giphy.com/media/gQdejV5BBChHi/giphy.gif",       // DuckTales: Scrooge McDuck duik
+  "https://media.giphy.com/media/3oxOCgMHgPtSUULjzO/giphy.gif",  // Spongebob: "Put the money in the bag"
+  "https://media.giphy.com/media/SOmjomEnNHsrK/giphy.gif",       // Minions: Kopiëren hun billen (of geld?)
+  "https://media.giphy.com/media/uyWTOgNGGWfks/giphy.gif",       // Rihanna: Telgebaren / money
+  "https://media.giphy.com/media/cXMFmN3edhlHI5vRsG/giphy.gif",  // Hondje (Maltipoo): Rijk met zonnebril
+  "https://media.giphy.com/media/1hMhl5fpuLldDqj0Ey/giphy.gif",  // Migos & James Corden: Carpool Karaoke cash
+  "https://media.giphy.com/media/gVROkjyShPnos/giphy.gif",       // Dikke kat die geaaid wordt met geld
+  "https://media.giphy.com/media/hKjBs0PcYzbDtExdVJ/giphy.gif",  // GigaChad: Geld tellen (G2 Esports)
+  "https://media.giphy.com/media/xTka04xVPdPVmSis7e/giphy.gif",  // Flintstones / Halifax: Fred Flintstone bij de bank
+  "https://media.giphy.com/media/3o8dp3z1qMdvfOgv28/giphy.gif",  // Top Cat / Halifax: Bankieren
+  "https://media.giphy.com/media/RoS4JYcw0RvK8/giphy.gif"        // Stapels geld (Money stacks)
 ];
 
 // --- HULPFUNCTIES ---
